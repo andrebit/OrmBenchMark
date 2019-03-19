@@ -1,0 +1,9 @@
+C:\proj\git\ormbenchmark\src\OrmBenchMark.Domain\bin\Debug\netstandard2.0\OrmBenchMark.Domain.deps.json
+C:\proj\git\ormbenchmark\src\OrmBenchMark.Domain\bin\Debug\netstandard2.0\OrmBenchMark.Domain.dll
+C:\proj\git\ormbenchmark\src\OrmBenchMark.Domain\bin\Debug\netstandard2.0\OrmBenchMark.Domain.pdb
+C:\proj\git\ormbenchmark\src\OrmBenchMark.Domain\obj\Debug\netstandard2.0\OrmBenchMark.Domain.csprojAssemblyReference.cache
+C:\proj\git\ormbenchmark\src\OrmBenchMark.Domain\obj\Debug\netstandard2.0\OrmBenchMark.Domain.csproj.CoreCompileInputs.cache
+C:\proj\git\ormbenchmark\src\OrmBenchMark.Domain\obj\Debug\netstandard2.0\OrmBenchMark.Domain.AssemblyInfoInputs.cache
+C:\proj\git\ormbenchmark\src\OrmBenchMark.Domain\obj\Debug\netstandard2.0\OrmBenchMark.Domain.AssemblyInfo.cs
+C:\proj\git\ormbenchmark\src\OrmBenchMark.Domain\obj\Debug\netstandard2.0\OrmBenchMark.Domain.dll
+C:\proj\git\ormbenchmark\src\OrmBenchMark.Domain\obj\Debug\netstandard2.0\OrmBenchMark.Domain.pdb

@@ -1,0 +1,14 @@
+C:\proj\git\ormbenchmark\src\OrmBenchMark\obj\Debug\netcoreapp2.2\OrmBenchMark.csprojAssemblyReference.cache
+C:\proj\git\ormbenchmark\src\OrmBenchMark\obj\Debug\netcoreapp2.2\OrmBenchMark.csproj.CoreCompileInputs.cache
+C:\proj\git\ormbenchmark\src\OrmBenchMark\obj\Debug\netcoreapp2.2\OrmBenchMark.AssemblyInfoInputs.cache
+C:\proj\git\ormbenchmark\src\OrmBenchMark\obj\Debug\netcoreapp2.2\OrmBenchMark.AssemblyInfo.cs
+C:\proj\git\ormbenchmark\src\OrmBenchMark\bin\Debug\netcoreapp2.2\OrmBenchMark.deps.json
+C:\proj\git\ormbenchmark\src\OrmBenchMark\bin\Debug\netcoreapp2.2\OrmBenchMark.runtimeconfig.json
+C:\proj\git\ormbenchmark\src\OrmBenchMark\bin\Debug\netcoreapp2.2\OrmBenchMark.runtimeconfig.dev.json
+C:\proj\git\ormbenchmark\src\OrmBenchMark\bin\Debug\netcoreapp2.2\OrmBenchMark.dll
+C:\proj\git\ormbenchmark\src\OrmBenchMark\bin\Debug\netcoreapp2.2\OrmBenchMark.pdb
+C:\proj\git\ormbenchmark\src\OrmBenchMark\bin\Debug\netcoreapp2.2\OrmBenchMark.Domain.dll
+C:\proj\git\ormbenchmark\src\OrmBenchMark\bin\Debug\netcoreapp2.2\OrmBenchMark.Domain.pdb
+C:\proj\git\ormbenchmark\src\OrmBenchMark\obj\Debug\netcoreapp2.2\OrmBenchMark.csproj.CopyComplete
+C:\proj\git\ormbenchmark\src\OrmBenchMark\obj\Debug\netcoreapp2.2\OrmBenchMark.dll
+C:\proj\git\ormbenchmark\src\OrmBenchMark\obj\Debug\netcoreapp2.2\OrmBenchMark.pdb

@@ -1,0 +1,1 @@
+# In order to add a project-to-project reference in net core -> dotnet add reference ..\OrmBenchMark.Domain\OrmBenchMark.Domain.csproj

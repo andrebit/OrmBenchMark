@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>OrmBenchMark.Domain</id>
+        <version>1.0.0</version>
+        <authors>Andre L.A.C Bittencourt</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Domain model used for the benchmarks</description>
+    </metadata>
+    <files>
+        <file src="bin\Debug\*.dll" target="lib" />
+    </files>
+</package>
